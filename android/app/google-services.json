@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216099061003",
+    "project_id": "homecademyfsk-4796c",
+    "storage_bucket": "homecademyfsk-4796c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216099061003:android:23488de1a97f4a82df360e",
+        "android_client_info": {
+          "package_name": "com.example.fsk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216099061003-8l2u44tahr3d37ou4i8j5g1n1e3e8p05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAImWgfzynHB-TE-ArQEwfM0pPeIL-FuQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216099061003-8l2u44tahr3d37ou4i8j5g1n1e3e8p05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
